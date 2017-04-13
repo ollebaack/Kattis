@@ -15,6 +15,7 @@ int amountOfVoc(int index)
 	{
 		cin >> word[i];
 		cout << "\n";
+		hej;
 	}
 
 	return 0;
