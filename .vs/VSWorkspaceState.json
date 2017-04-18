@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\I_repeat_myself",
+    "\\I_repeat_myself\\I_repeat_myself"
   ],
+  "SelectedNode": "\\I_repeat_myself\\I_repeat_myself\\Main.cpp",
   "PreviewInSolutionExplorer": false
 }
